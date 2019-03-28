@@ -1,12 +1,13 @@
 {
   "main": {
-    "fo": {
+    "ps-PK": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14134 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14934 $",
+          "_cldrVersion": "35"
         },
-        "language": "fo"
+        "language": "ps",
+        "territory": "PK"
       },
       "dates": {
         "calendars": {
@@ -133,88 +134,88 @@
             "days": {
               "format": {
                 "abbreviated": {
-                  "sun": "sun.",
-                  "mon": "mán.",
-                  "tue": "týs.",
-                  "wed": "mik.",
-                  "thu": "hós.",
-                  "fri": "frí.",
-                  "sat": "ley."
+                  "sun": "يونۍ",
+                  "mon": "دونۍ",
+                  "tue": "درېنۍ",
+                  "wed": "څلرنۍ",
+                  "thu": "پينځنۍ",
+                  "fri": "جمعه",
+                  "sat": "اونۍ"
                 },
                 "narrow": {
                   "sun": "S",
                   "mon": "M",
                   "tue": "T",
-                  "wed": "M",
-                  "thu": "H",
+                  "wed": "W",
+                  "thu": "T",
                   "fri": "F",
-                  "sat": "L"
+                  "sat": "S"
                 },
                 "short": {
-                  "sun": "su.",
-                  "mon": "má.",
-                  "tue": "tý.",
-                  "wed": "mi.",
-                  "thu": "hó.",
-                  "fri": "fr.",
-                  "sat": "le."
+                  "sun": "يونۍ",
+                  "mon": "دونۍ",
+                  "tue": "درېنۍ",
+                  "wed": "څلرنۍ",
+                  "thu": "پينځنۍ",
+                  "fri": "جمعه",
+                  "sat": "اونۍ"
                 },
                 "wide": {
-                  "sun": "sunnudagur",
-                  "mon": "mánadagur",
-                  "tue": "týsdagur",
-                  "wed": "mikudagur",
-                  "thu": "hósdagur",
-                  "fri": "fríggjadagur",
-                  "sat": "leygardagur"
+                  "sun": "يونۍ",
+                  "mon": "دونۍ",
+                  "tue": "درېنۍ",
+                  "wed": "څلرنۍ",
+                  "thu": "پينځنۍ",
+                  "fri": "جمعه",
+                  "sat": "اونۍ"
                 }
               },
               "stand-alone": {
                 "abbreviated": {
-                  "sun": "sun",
-                  "mon": "mán",
-                  "tue": "týs",
-                  "wed": "mik",
-                  "thu": "hós",
-                  "fri": "frí",
-                  "sat": "ley"
+                  "sun": "يونۍ",
+                  "mon": "دونۍ",
+                  "tue": "درېنۍ",
+                  "wed": "څلرنۍ",
+                  "thu": "پينځنۍ",
+                  "fri": "جمعه",
+                  "sat": "اونۍ"
                 },
                 "narrow": {
                   "sun": "S",
                   "mon": "M",
                   "tue": "T",
-                  "wed": "M",
-                  "thu": "H",
+                  "wed": "W",
+                  "thu": "T",
                   "fri": "F",
-                  "sat": "L"
+                  "sat": "S"
                 },
                 "short": {
-                  "sun": "su",
-                  "mon": "má",
-                  "tue": "tý",
-                  "wed": "mi",
-                  "thu": "hó",
-                  "fri": "fr",
-                  "sat": "le"
+                  "sun": "يونۍ",
+                  "mon": "دونۍ",
+                  "tue": "درېنۍ",
+                  "wed": "څلرنۍ",
+                  "thu": "پينځنۍ",
+                  "fri": "جمعه",
+                  "sat": "اونۍ"
                 },
                 "wide": {
-                  "sun": "sunnudagur",
-                  "mon": "mánadagur",
-                  "tue": "týsdagur",
-                  "wed": "mikudagur",
-                  "thu": "hósdagur",
-                  "fri": "fríggjadagur",
-                  "sat": "leygardagur"
+                  "sun": "يونۍ",
+                  "mon": "دونۍ",
+                  "tue": "درېنۍ",
+                  "wed": "څلرنۍ",
+                  "thu": "پينځنۍ",
+                  "fri": "جمعه",
+                  "sat": "اونۍ"
                 }
               }
             },
             "quarters": {
               "format": {
                 "abbreviated": {
-                  "1": "1. ársfj.",
-                  "2": "2. ársfj.",
-                  "3": "3. ársfj.",
-                  "4": "4. ársfj."
+                  "1": "لومړۍ ربعه",
+                  "2": "۲مه ربعه",
+                  "3": "۳مه ربعه",
+                  "4": "۴مه ربعه"
                 },
                 "narrow": {
                   "1": "1",
@@ -223,18 +224,18 @@
                   "4": "4"
                 },
                 "wide": {
-                  "1": "1. ársfjórðingur",
-                  "2": "2. ársfjórðingur",
-                  "3": "3. ársfjórðingur",
-                  "4": "4. ársfjórðingur"
+                  "1": "لومړۍ ربعه",
+                  "2": "۲مه ربعه",
+                  "3": "۳مه ربعه",
+                  "4": "۴مه ربعه"
                 }
               },
               "stand-alone": {
                 "abbreviated": {
-                  "1": "1. ársfj.",
-                  "2": "2. ársfj.",
-                  "3": "3. ársfj.",
-                  "4": "4. ársfj."
+                  "1": "لومړۍ ربعه",
+                  "2": "۲مه ربعه",
+                  "3": "۳مه ربعه",
+                  "4": "۴مه ربعه"
                 },
                 "narrow": {
                   "1": "1",
@@ -243,40 +244,40 @@
                   "4": "4"
                 },
                 "wide": {
-                  "1": "1. ársfjórðingur",
-                  "2": "2. ársfjórðingur",
-                  "3": "3. ársfjórðingur",
-                  "4": "4. ársfjórðingur"
+                  "1": "لومړۍ ربعه",
+                  "2": "۲مه ربعه",
+                  "3": "۳مه ربعه",
+                  "4": "۴مه ربعه"
                 }
               }
             },
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "غ.م.",
+                  "pm": "غ.و."
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "غ.م.",
+                  "pm": "غ.و."
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "غ.م.",
+                  "pm": "غ.و."
                 }
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "غ.م.",
+                  "pm": "غ.و."
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "غ.م.",
+                  "pm": "غ.و."
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "غ.م.",
+                  "pm": "غ.و."
                 }
               }
             },
@@ -1033,10 +1034,10 @@
               "short": "r-MM-dd"
             },
             "timeFormats": {
-              "full": "HH:mm:ss zzzz",
-              "long": "HH:mm:ss z",
-              "medium": "HH:mm:ss",
-              "short": "HH:mm"
+              "full": "h:mm:ss a zzzz",
+              "long": "h:mm:ss a z",
+              "medium": "h:mm:ss a",
+              "short": "h:mm a"
             },
             "dateTimeFormats": {
               "full": "{1} {0}",
@@ -1102,6 +1103,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h–h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm–h:mm B",
+                  "m": "h:mm–h:mm B"
+                },
                 "d": {
                   "d": "d–d"
                 },

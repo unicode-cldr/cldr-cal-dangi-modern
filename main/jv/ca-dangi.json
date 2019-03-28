@@ -1,13 +1,12 @@
 {
   "main": {
-    "fo-DK": {
+    "jv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14844 $",
+          "_cldrVersion": "35"
         },
-        "language": "fo",
-        "territory": "DK"
+        "language": "jv"
       },
       "dates": {
         "calendars": {
@@ -134,88 +133,88 @@
             "days": {
               "format": {
                 "abbreviated": {
-                  "sun": "sun.",
-                  "mon": "mán.",
-                  "tue": "týs.",
-                  "wed": "mik.",
-                  "thu": "hós.",
-                  "fri": "frí.",
-                  "sat": "ley."
+                  "sun": "Ahd",
+                  "mon": "Sen",
+                  "tue": "Sel",
+                  "wed": "Rab",
+                  "thu": "Kam",
+                  "fri": "Jum",
+                  "sat": "Sab"
                 },
                 "narrow": {
-                  "sun": "S",
-                  "mon": "M",
-                  "tue": "T",
-                  "wed": "M",
-                  "thu": "H",
-                  "fri": "F",
-                  "sat": "L"
+                  "sun": "A",
+                  "mon": "S",
+                  "tue": "S",
+                  "wed": "R",
+                  "thu": "K",
+                  "fri": "J",
+                  "sat": "S"
                 },
                 "short": {
-                  "sun": "su.",
-                  "mon": "má.",
-                  "tue": "tý.",
-                  "wed": "mi.",
-                  "thu": "hó.",
-                  "fri": "fr.",
-                  "sat": "le."
+                  "sun": "Ahd",
+                  "mon": "Sen",
+                  "tue": "Sel",
+                  "wed": "Rab",
+                  "thu": "Kam",
+                  "fri": "Jum",
+                  "sat": "Sab"
                 },
                 "wide": {
-                  "sun": "sunnudagur",
-                  "mon": "mánadagur",
-                  "tue": "týsdagur",
-                  "wed": "mikudagur",
-                  "thu": "hósdagur",
-                  "fri": "fríggjadagur",
-                  "sat": "leygardagur"
+                  "sun": "Ahad",
+                  "mon": "Senin",
+                  "tue": "Selasa",
+                  "wed": "Rabu",
+                  "thu": "Kamis",
+                  "fri": "Jumat",
+                  "sat": "Sabtu"
                 }
               },
               "stand-alone": {
                 "abbreviated": {
-                  "sun": "sun",
-                  "mon": "mán",
-                  "tue": "týs",
-                  "wed": "mik",
-                  "thu": "hós",
-                  "fri": "frí",
-                  "sat": "ley"
+                  "sun": "Ahd",
+                  "mon": "Sen",
+                  "tue": "Sel",
+                  "wed": "Rab",
+                  "thu": "Kam",
+                  "fri": "Jum",
+                  "sat": "Sab"
                 },
                 "narrow": {
-                  "sun": "S",
-                  "mon": "M",
-                  "tue": "T",
-                  "wed": "M",
-                  "thu": "H",
-                  "fri": "F",
-                  "sat": "L"
+                  "sun": "A",
+                  "mon": "S",
+                  "tue": "S",
+                  "wed": "R",
+                  "thu": "K",
+                  "fri": "J",
+                  "sat": "S"
                 },
                 "short": {
-                  "sun": "su",
-                  "mon": "má",
-                  "tue": "tý",
-                  "wed": "mi",
-                  "thu": "hó",
-                  "fri": "fr",
-                  "sat": "le"
+                  "sun": "Ahd",
+                  "mon": "Sen",
+                  "tue": "Sel",
+                  "wed": "Rab",
+                  "thu": "Kam",
+                  "fri": "Jum",
+                  "sat": "Sab"
                 },
                 "wide": {
-                  "sun": "sunnudagur",
-                  "mon": "mánadagur",
-                  "tue": "týsdagur",
-                  "wed": "mikudagur",
-                  "thu": "hósdagur",
-                  "fri": "fríggjadagur",
-                  "sat": "leygardagur"
+                  "sun": "Ahad",
+                  "mon": "Senin",
+                  "tue": "Selasa",
+                  "wed": "Rabu",
+                  "thu": "Kamis",
+                  "fri": "Jumat",
+                  "sat": "Sabtu"
                 }
               }
             },
             "quarters": {
               "format": {
                 "abbreviated": {
-                  "1": "1. ársfj.",
-                  "2": "2. ársfj.",
-                  "3": "3. ársfj.",
-                  "4": "4. ársfj."
+                  "1": "TW1",
+                  "2": "TW2",
+                  "3": "TW3",
+                  "4": "TW4"
                 },
                 "narrow": {
                   "1": "1",
@@ -224,18 +223,18 @@
                   "4": "4"
                 },
                 "wide": {
-                  "1": "1. ársfjórðingur",
-                  "2": "2. ársfjórðingur",
-                  "3": "3. ársfjórðingur",
-                  "4": "4. ársfjórðingur"
+                  "1": "triwulan kaping pisan",
+                  "2": "triwulan kaping loro",
+                  "3": "triwulan kaping telu",
+                  "4": "triwulan kaping papat"
                 }
               },
               "stand-alone": {
                 "abbreviated": {
-                  "1": "1. ársfj.",
-                  "2": "2. ársfj.",
-                  "3": "3. ársfj.",
-                  "4": "4. ársfj."
+                  "1": "TW1",
+                  "2": "TW2",
+                  "3": "TW3",
+                  "4": "TW4"
                 },
                 "narrow": {
                   "1": "1",
@@ -244,40 +243,40 @@
                   "4": "4"
                 },
                 "wide": {
-                  "1": "1. ársfjórðingur",
-                  "2": "2. ársfjórðingur",
-                  "3": "3. ársfjórðingur",
-                  "4": "4. ársfjórðingur"
+                  "1": "triwulan kaping pisan",
+                  "2": "triwulan kaping loro",
+                  "3": "triwulan kaping telu",
+                  "4": "triwulan kaping papat"
                 }
               }
             },
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Isuk",
+                  "pm": "Wengi"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Isuk",
+                  "pm": "Wengi"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Isuk",
+                  "pm": "Wengi"
                 }
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Isuk",
+                  "pm": "Wengi"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Isuk",
+                  "pm": "Wengi"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Isuk",
+                  "pm": "Wengi"
                 }
               }
             },
@@ -1103,6 +1102,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h–h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm–h:mm B",
+                  "m": "h:mm–h:mm B"
+                },
                 "d": {
                   "d": "d–d"
                 },
